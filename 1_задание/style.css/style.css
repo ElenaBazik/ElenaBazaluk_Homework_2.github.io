@@ -1,0 +1,22 @@
+
+h2 {
+	background: red;
+	height: 30px;
+	width:100px;
+    color:white;
+}
+hr { 
+	color:grey;
+	width: 340px;
+}
+p.one{
+	background: blue;
+	height: 45px;
+	width:300px;
+
+}
+p.two{
+	background: yellow;
+	height: 45px;
+	width:300px;
+}

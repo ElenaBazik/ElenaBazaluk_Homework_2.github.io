@@ -1,0 +1,17 @@
+div{
+border:3px dashed;
+	 padding: 5px;
+	 width: 375px;
+	 height: 111px;
+}
+sub{
+	color:blue;
+}
+sup{
+	color:red;
+}
+.formula{
+	  top: 16%;
+	  font-size: 21px;
+}
+	
